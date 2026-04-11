@@ -1,7 +1,8 @@
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devashish-cloude/Devashish-cloude/output/github-contribution-grid-snake.svg" />
+  <img width="400" src="https://raw.githubusercontent.com/Devashish-cloude/Devashish-cloude/output/github-contribution-grid-snake.svg" />
 </p>
 
 # Hi 👋 I'm Devashish Itankar
