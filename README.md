@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="220" src="https://raw.githubusercontent.com/Devashish-cloude/Devashish-cloude/output/github-contribution-grid-snake.svg"/>
+  <img width="300" src="https://raw.githubusercontent.com/Devashish-cloude/Devashish-cloude/output/github-contribution-grid-snake.svg" style="transform: rotate(90deg);" />
 </div>
 
 ## Hi 👋 I'm Devashish Itankar
