@@ -20,74 +20,58 @@
 * 🌱 Always learning new technologies and improving my development skills
 
 ---
+## 🛠️ Skills & Technologies
 
-🛠️ Skills & Technologies
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-💻 Programming Languages
+### 🌐 Development
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web Dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-FF6F00?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-    Python
+### ⚙️ Technologies
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=wifi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-FF9800?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer Vision-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Face Recognition-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+</p>
 
-    C
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-    C++
+### 🎨 Creative & Media
+<p>
+  <img src="https://img.shields.io/badge/Final Cut Pro-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Video Editing-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Content Creation-FF4081?style=for-the-badge"/>
+</p>
 
-    JavaScript
-
-    SQL
-
-🌐 Development
-
-    Android App Development
-
-    Web Development
-
-    Backend Development
-
-    REST API Development
-
-⚙️ Technologies
-
-    Arduino
-
-    ESP8266
-
-    IoT Systems
-
-    Computer Vision
-
-    Face Recognition
-
-    Machine Learning Basics
-
-🧰 Tools & Platforms
-
-    Git
-
-    GitHub
-
-    Docker
-
-    Android Studio
-
-    VS Code
-
-    Linux
-
-🎨 Creative & Media Tools
-
-    Final Cut Pro
-
-    Video Editing
-
-    Content Creation
-
-📚 Currently Learning
-
-    Advanced AI Development
-
-    Scalable Backend Systems
-
-    Cloud Deployment
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Advanced AI-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scalable Backend-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
 ---
 
