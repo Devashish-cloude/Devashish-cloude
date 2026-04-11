@@ -77,98 +77,62 @@
 
 # 🚀 Projects
 
-## 🚗 Smart Parking System
+<table width="100%">
+<tr>
+<td width="50%" style="padding: 20px;">
 
-A web-based smart parking management system designed to efficiently track and manage parking spaces. The system records vehicle number plates, entry time, and exit time, helping administrators monitor parking usage in real time. It provides a structured dashboard interface where users can easily manage parking data and reduce manual tracking errors.
+### 🚗 Smart Parking System  
+Web-based parking dashboard with real-time tracking  
+🚘 Plates • ⏱️ Time tracking • 📊 Dashboard  
 
-**Key Features**
+</td>
 
-* Vehicle number plate entry system
-* Automatic entry and exit time tracking
-* Parking management dashboard
-* Organized data storage for vehicles
-* Easy monitoring of parking activity
+<td width="50%" style="padding: 20px;">
 
----
+### 🌱 Crop Disease Detection  
+AI app for plant disease detection  
+📸 Image input • 🤖 AI • 🌾 Smart farming  
 
-## 🌱 Crop Disease Detection App
+</td>
+</tr>
 
-An AI-powered application that detects crop diseases from plant images. The system analyzes images of leaves and identifies possible diseases using image processing and machine learning techniques. This helps farmers identify plant issues early and take appropriate action.
+<tr>
+<td style="padding: 20px;">
 
-**Key Features**
+### 🤖 AI Voice Assistant  
+Voice-controlled AI assistant  
+🎙️ Voice • 🧠 AI • 💬 Chat  
 
-* Image-based crop disease detection
-* AI-powered plant analysis
-* Helps farmers detect diseases early
-* User-friendly interface for uploading images
+</td>
 
----
+<td style="padding: 20px;">
 
-## 🤖 AI Voice Assistant
+### 🚗 WiFi Car  
+IoT car using ESP8266  
+📡 WiFi • ⚙️ Motor control  
 
-An intelligent AI assistant that interacts with users using voice commands. It uses a microphone for speech input and responds using AI-powered language models. The assistant can answer questions, perform basic tasks, and interact with the user like a virtual companion.
+</td>
+</tr>
 
-**Key Features**
+<tr>
+<td style="padding: 20px;">
 
-* Voice command recognition
-* AI-powered responses
-* Microphone and camera integration
-* Interactive conversational interface
+### 🎮 Flappy Bird  
+2D game using Pygame  
+🕹️ Game • 💥 Collision  
 
----
+</td>
 
-## 🚗 WiFi Controlled Car
+<td style="padding: 20px;">
 
-An IoT-based robotic car controlled over WiFi using an ESP8266 microcontroller and an L298N motor driver. The system allows users to control the car remotely using a mobile interface or web application.
+### 🔐 Face Attendance  
+AI-based attendance system  
+👤 Face ID • 📝 Auto logging  
 
-**Key Features**
+</td>
+</tr>
+</table>
 
-* WiFi-based remote control
-* ESP8266 microcontroller integration
-* L298N motor driver for motor control
-* Real-time directional control of the car
-
----
-
-## 🅿️ Parking Management Website
-
-A web dashboard system designed to monitor and manage vehicle parking operations. The system allows administrators to track vehicles entering and exiting a parking area while maintaining structured records.
-
-**Key Features**
-
-* Vehicle entry and exit tracking
-* Dashboard-style interface
-* Data management for parking records
-* Organized monitoring system
-
----
-
-## 🎮 Flappy Bird Game
-
-A simple 2D game inspired by the classic Flappy Bird, developed using Python and the Pygame library. The game demonstrates basic game development concepts such as gravity, collision detection, scoring systems, and game loops.
-
-**Key Features**
-
-* 2D game built using Pygame
-* Collision detection mechanics
-* Score tracking system
-* Basic game physics and animation
-
----
-
-## 🔐 Face Detection Attendance System
-
-An AI-based attendance system that uses facial recognition technology to automatically mark attendance. The system captures faces using a camera, identifies registered users, and records attendance without manual input.
-
-**Key Features**
-
-* Face recognition based attendance
-* Automated attendance logging
-* Camera-based identity verification
-* Secure and efficient attendance tracking
-
-
----
 
 # 🧠 Currently Learning
 
