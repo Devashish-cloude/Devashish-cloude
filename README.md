@@ -1,10 +1,6 @@
 ---
-## 🐍 Contribution Snake
-
 <div align="center">
-
 <img width="220" src="https://raw.githubusercontent.com/Devashish-cloude/Devashish-cloude/output/github-contribution-grid-snake.svg"/>
-
 </div>
 ---
 # Hi 👋 I'm Devashish Itankar
