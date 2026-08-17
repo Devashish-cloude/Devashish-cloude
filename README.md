@@ -184,7 +184,8 @@ Technology-driven farming solution combining IoT and AI concepts for better agri
 </tr>
 
 </table>
-# 🧠 Currently Learning
+
+### 🧠 Currently Learning
 
 * Advanced AI Development
 * Backend Systems
