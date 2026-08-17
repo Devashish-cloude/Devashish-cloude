@@ -75,65 +75,115 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" style="padding: 20px;">
+<td width="50%">
 
-### 🚗 Smart Parking System  
-Web-based parking dashboard with real-time tracking  
-🚘 Plates • ⏱️ Time tracking • 📊 Dashboard  
+### 🚗 Smart Parking System
+Web-based smart parking platform with real-time parking tracking and vehicle management.
+
+🚘 Plate Recognition • ⏱️ Time Tracking • 📊 Dashboard  
+💳 Razorpay • 🗺️ Google Maps • 🅿️ Parking Booking
 
 </td>
+<td width="50%">
 
-<td width="50%" style="padding: 20px;">
+### 🌱 AGRICHAIN
+AI-powered farm-to-market intelligence platform helping farmers with crop insights, price prediction and spoilage analysis.
 
-### 🌱 Crop Disease Detection  
-AI app for plant disease detection  
-📸 Image input • 🤖 AI • 🌾 Smart farming  
+🤖 Machine Learning • 📈 Price Prediction • 🌾 Smart Farming  
+📊 Random Forest • ⚠️ Spoilage Risk • 💹 Market Intelligence
 
 </td>
 </tr>
 
 <tr>
-<td style="padding: 20px;">
+<td width="50%">
 
-### 🤖 AI Voice Assistant  
-Voice-controlled AI assistant  
+### 🏥 SevaHealth AI
+AI-powered healthcare platform designed for underserved communities with offline and low-bandwidth support.
+
+🤖 AI • 📱 Healthcare • 🌐 Offline Support  
+🔐 Privacy • 🌍 Multi-language • 📱 QR Integration
+
+</td>
+<td width="50%">
+
+### 🌾 Crop Disease Detection
+AI-based application that detects plant diseases from crop images and provides intelligent farming assistance.
+
+📸 Image Input • 🤖 AI • 🌱 Disease Detection  
+🌾 Smart Farming • 🧠 Machine Learning
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Voice Assistant
+Voice-controlled personal AI assistant capable of interacting through speech, chat and camera input.
+
 🎙️ Voice • 🧠 AI • 💬 Chat  
+📷 Camera • 🔊 Speech Recognition • 🤖 GPT
 
 </td>
+<td width="50%">
 
-<td style="padding: 20px;">
+### 📊 Student Performance Prediction
+Machine learning system that predicts student performance using academic and behavioral data.
 
-### 🚗 WiFi Car  
-IoT car using ESP8266  
-📡 WiFi • ⚙️ Motor control  
+🧠 Machine Learning • 📊 Data Analysis • 📈 Prediction  
+🐍 Python • 🤖 ML Models • 📋 Student Analytics
 
 </td>
 </tr>
 
 <tr>
-<td style="padding: 20px;">
+<td width="50%">
 
-### 🎮 Flappy Bird  
-2D game using Pygame  
-🕹️ Game • 💥 Collision  
+### 🔒 Face Attendance System
+AI-powered automated attendance system using facial recognition.
+
+👤 Face Recognition • 📸 Computer Vision • 📝 Auto Logging  
+🐍 Python • 👁️ OpenCV • 📊 Excel Export
 
 </td>
+<td width="50%">
 
-<td style="padding: 20px;">
+### 🚗 WiFi Controlled Car
+IoT-based robotic car controlled wirelessly using an ESP8266 microcontroller.
 
-### 🔐 Face Attendance  
-AI-based attendance system  
-👤 Face ID • 📝 Auto logging  
+📡 WiFi • ⚙️ Motor Control • 🔌 ESP8266  
+🤖 IoT • 🎮 Remote Control • 🔧 Embedded Systems
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Flappy Bird
+Classic 2D arcade game developed using Python and Pygame.
+
+🕹️ Game Development • 💥 Collision Detection  
+🐍 Python • 🎮 Pygame • 📈 Score System
+
+</td>
+<td width="50%">
+
+### 🌿 Smart Farming System
+Technology-driven farming solution combining IoT and AI concepts for better agricultural decision-making.
+
+🌱 Agriculture • 🤖 AI • 📡 IoT  
+📊 Data Analysis • 🌾 Crop Intelligence
+
+</td>
+</tr>
+
 </table>
-
-
 # 🧠 Currently Learning
 
 * Advanced AI Development
